@@ -1,3 +1,4 @@
+//定义抽象类
 public abstract class Transpotation {
     protected int ticket;
 }

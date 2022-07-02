@@ -3,8 +3,8 @@ public class test1 {
         Cock cock = new Cock();
         Hen hen = new Hen();
         Chicken chicken = new Chicken();
-        float money = 0;
-        int num = 0;
+        float money;
+        int num;
         for (int i = 0; i <= 100 / 5; i++) {
             for(int j = 0; j <= 100 / 3; j++) {
                 for(int k = 0; k <= 100 * 3; k++) {
