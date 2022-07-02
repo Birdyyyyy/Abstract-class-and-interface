@@ -1,4 +1,4 @@
-public class test {
+public class test1 {
     public static void main(String[] args) {
         Cock cock = new Cock();
         Hen hen = new Hen();
